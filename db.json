@@ -1,0 +1,32 @@
+{
+  "password-manager": [
+    {
+      "id": 1,
+      "type": "facebook",
+      "icon": "facebook",
+      "user": "user@user.com",
+      "password": "password"
+    },
+    {
+      "id": 2,
+      "type": "instagram",
+      "icon": "instagram",
+      "user": "user@user.com",
+      "password": "password"
+    },
+    {
+      "id": 3,
+      "type": "playstation",
+      "icon": "playstation",
+      "user": "user@user.com",
+      "password": "password"
+    },
+    {
+      "id": 4,
+      "type": "amazon",
+      "icon": "amazon",
+      "user": "user@user.com",
+      "password": "password"
+    }
+  ]
+}
